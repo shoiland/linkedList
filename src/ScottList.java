@@ -25,9 +25,16 @@ public class ScottList<E> {
 
     }
 
+    public boolean isEmpty() {
+        return (head == null); //the list is empty if head is null
+    }
+
     //NOTE:Both of these work with THIS and without THIs.
 
     public E removeFromFront(){
+        if (isEmpty()){
+            return null;
+        }
         Node<E> frontItemToRemove = this.head;
         //System.out.println(frontItemToRemove.data.toString());
         this.head = frontItemToRemove.next;
@@ -35,21 +42,34 @@ public class ScottList<E> {
     }
 
     public E removeFromFrontNoThis(){
+        if (isEmpty()){
+            return null;
+        }
         E removedData = head.data;
         head = head.next;
         return removedData;
     }
 
     public E removeFromBack(){
+        E removedData;
         Node<E> previous = head;
         Node<E> nextNode = previous.next;
 
-        while (nextNode.next != null){
-            previous = nextNode;
-            nextNode = previous.next;
+        if (isEmpty()){
+            return null;
+        } else if (nextNode == null){
+            removedData = previous.data;
+            this.head = null;
+        } else {
+            while (nextNode.next != null){
+                previous = nextNode;
+                nextNode = previous.next;
+            }
+            previous.next = null;
+            removedData = nextNode.data;
+
         }
-        previous.next = null;
-        return nextNode.data;
+        return removedData;
     }
 
     public String toString(){
@@ -66,19 +86,21 @@ public class ScottList<E> {
     public static void main(String[] args) {
         ScottList<String> dogNames = new ScottList();
         dogNames.addToFront("Gatsby");
-        dogNames.addToFront("Mav");
-        dogNames.addToFront("June");
-        dogNames.addToFront("Jane");
         dogNames.addToFront("Murphy");
+        dogNames.addToFront("Doug");
+        dogNames.addToFront("Mav");
+        dogNames.addToFront("Darby");
 //        System.out.println(dogNames.toString());
 //        dogNames.removeFromFront();
         //System.out.println(dogNames.removeFromFront().toString());
 //        System.out.println(dogNames.toString());
         //System.out.println(dogNames.removeFromBack());
 //        dogNames.removeFromBack();
-        dogNames.removeFromFront();
-        dogNames.removeFromFrontNoThis();
-        System.out.println(dogNames.toString());
+//        dogNames.removeFromFront();
+//        dogNames.removeFromFrontNoThis();
+//        System.out.println(dogNames.toString());
+        dogNames.removeFromBack();
+        System.out.println(dogNames);
 
     }
 }
