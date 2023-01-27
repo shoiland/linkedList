@@ -25,11 +25,19 @@ public class ScottList<E> {
 
     }
 
+    //NOTE:Both of these work with THIS and without THIs.
+
     public E removeFromFront(){
         Node<E> frontItemToRemove = this.head;
         //System.out.println(frontItemToRemove.data.toString());
         this.head = frontItemToRemove.next;
         return frontItemToRemove.data;
+    }
+
+    public E removeFromFrontNoThis(){
+        E removedData = head.data;
+        head = head.next;
+        return removedData;
     }
 
     public E removeFromBack(){
@@ -60,12 +68,16 @@ public class ScottList<E> {
         dogNames.addToFront("Gatsby");
         dogNames.addToFront("Mav");
         dogNames.addToFront("June");
+        dogNames.addToFront("Jane");
+        dogNames.addToFront("Murphy");
 //        System.out.println(dogNames.toString());
 //        dogNames.removeFromFront();
         //System.out.println(dogNames.removeFromFront().toString());
 //        System.out.println(dogNames.toString());
         //System.out.println(dogNames.removeFromBack());
-        dogNames.removeFromBack();
+//        dogNames.removeFromBack();
+        dogNames.removeFromFront();
+        dogNames.removeFromFrontNoThis();
         System.out.println(dogNames.toString());
 
     }

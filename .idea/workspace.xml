@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c166ac0b-3b7f-4520-9247-9d02ca8dde53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkedList/ScottList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/linkedList/ScottList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ScottList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScottList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../../tree-map.js" beforeDir="false" />
     </list>
@@ -96,7 +94,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ScottList.java</url>
-          <line>35</line>
+          <line>41</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
