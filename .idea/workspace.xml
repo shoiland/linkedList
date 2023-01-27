@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c166ac0b-3b7f-4520-9247-9d02ca8dde53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/CalculatorTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorTwo/src/com/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EdX/EdX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/HW03-Java1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW03-Java1/src/Battleship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/HW04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/src/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/src/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW04/src/Pond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/HW05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW05/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/HW06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/data/Appointments.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/data/Patients.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/Clinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/ClinicDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/InvalidPetException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW06/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/Java I Course Exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java I Course Exam/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculator/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/craps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/src/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/src/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../craps/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/javaIII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaIII/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/linkedList/GenericLinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/linkedList/GenericLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScottList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../outcomeinsight/outcomeinsight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Automobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Firecracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Firework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Hybrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/PetCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/src/Sphynx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testenv/testenv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xerotoolmaven/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../tree-map.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KukYMsoHCVZq8A41PlyZS7a7f3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ScottList">
+    <configuration name="GenericLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericLinkedList" />
+      <module name="linkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScottList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScottList" />
+      <module name="linkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScottList" />
+        <item itemvalue="Application.GenericLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c166ac0b-3b7f-4520-9247-9d02ca8dde53" name="Changes" comment="" />
+      <created>1674831903361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674831903361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericLinkedList.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ScottList.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
