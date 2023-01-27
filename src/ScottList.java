@@ -25,6 +25,13 @@ public class ScottList<E> {
 
     }
 
+    public E removeFromFront(){
+        Node<E> frontItemToRemove = this.head;
+        //System.out.println(frontItemToRemove.data.toString());
+        this.head = frontItemToRemove.next;
+        return frontItemToRemove.data;
+    }
+
     public String toString(){
         Node<E> current = head;
         String result = "";
@@ -41,6 +48,9 @@ public class ScottList<E> {
         dogNames.addToFront("Gatsby");
         dogNames.addToFront("Mav");
         dogNames.addToFront("June");
+        System.out.println(dogNames.toString());
+        dogNames.removeFromFront();
+        //System.out.println(dogNames.removeFromFront().toString());
         System.out.println(dogNames.toString());
 
     }
